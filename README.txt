@@ -1,1 +1,2 @@
-Projekt kalkulatora.
+Projekt kalkulatora. Wersja druga.
+Autor Emil
