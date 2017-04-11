@@ -1,7 +1,5 @@
 def get_help():
 	print("To jest prosty program kalkulatora, wprowadz dwie liczby i zatwierdz enterem")
-	
-get_help()
 
 def dodawanie(a, b):
 	wynik = a + b
