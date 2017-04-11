@@ -1,6 +1,6 @@
 def dodawanie():
-	a = int(input("Podajpierwsza liczbe"))
-	b = int(input("Podajpierwsza liczbe"))
+	a = int(input("Podaj pierwsza liczbe"))
+	b = int(input("Podaj pierwsza liczbe"))
 	print(a+b)
 
 dodawanie()
